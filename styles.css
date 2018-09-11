@@ -1,0 +1,70 @@
+h1 {
+    color: lightcoral;;
+    text-align: center;
+    font-weight: bold;
+}
+ 
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightcoral;
+}
+
+body {
+    background-color: black;
+    margin: 0;
+    font-family: 'Slabo 27px', serif;
+}
+
+header img {
+    width: 8vw;
+    margin-left: 15px;
+    padding: 8px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: white;
+    font-size: 12pt;
+    margin-right: 15px;
+}
+
+p {
+    color: white;
+}
+
+h2 {
+    color: lightcoral;
+    font-weight: bold;
+}
+
+aside {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#xayah {
+    width: 15vw;
+    height: 15vw;
+}
+
+#jinx {
+    width: 15vw;
+    height: 15vw;
+}
+
+.text h2, .text p {
+    padding: 10px;
+    margin: 20px 10 0px 10;
+}
+
+.receita {
+    color: white;
+    font-size: 12pt;
+    line-height: 20px;
+    letter-spacing: 1px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
